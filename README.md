@@ -304,31 +304,8 @@ pip install pypdf
 - 🏆 Benchmark against industry standards
 - 🌐 Multi-language code evaluation
 
----
 
-## 🎪 Why This is Perfect for Hackathons
 
-✅ Single, clear prototype concept  
-✅ Easy to explain in 30 seconds  
-✅ Works with fake or real data  
-✅ Judges immediately understand the value  
-✅ Shows transparent, process-based evaluation  
-✅ Can be extended with ML/APIs later (you can TELL judges that)  
-✅ Structured JSON output impresses technical judges  
-✅ Real-world hiring use case (solves actual problem)
-
----
-
-## 🙌 Built For
-
-- Hackathons
-- College projects
-- Startup MVPs
-- AI hiring platforms
-- Recruiter tools
-- Developer assessment services
-
----
 
 ## 📖 How to Use (User Guide)
 
@@ -344,14 +321,7 @@ pip install pypdf
 3. See consistency check between claims and evidence
 4. Make data-backed hiring decisions
 
-### For Hackathon Judges:
-1. See the AI prompt (copy-paste ready)
-2. Test with sample data
-3. Understand the evaluation criteria
-4. Recognize the scalability potential
 
----
 
 Good luck & happy building 🚀
 
-**Questions?** Open an issue or ping the maintainers.
